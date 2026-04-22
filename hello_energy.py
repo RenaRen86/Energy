@@ -1,0 +1,1 @@
+print('Energy project started!')
